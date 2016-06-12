@@ -1,16 +1,16 @@
-- script:
-        name: install git
-        code: |
-            apt-get update
-            apt-get install git -y
-    - script:
-        name: initialize git submodules
-        code: |
-            git submodule update --init --recursive
-
 box: debian
 build:
   steps:
+    - script:
+            name: install git
+            code: |
+                apt-get update
+                apt-get install git -y
+        - script:
+            name: initialize git submodules
+            code: |
+                git submodule update --init --recursive
+    
     - arjen/hugo-build:
         version: "0.16"
         theme: internet-weblog
