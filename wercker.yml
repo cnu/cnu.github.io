@@ -12,3 +12,11 @@ build:
     - arjen/hugo-build:
         version: "0.16"
         theme: internet-weblog
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: cnu.name
+        basedir: public
