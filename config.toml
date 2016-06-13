@@ -27,11 +27,11 @@ pygmentstyle = "monokai"
     identifier = "posts"
     url = "/posts/"
 
-[[menu.main]]
-    name = "Microposts"
-    weight = 2
-    identifier = "microposts"
-    url = "/microposts/"
+# [[menu.main]]
+#     name = "Microposts"
+#     weight = 2
+#     identifier = "microposts"
+#     url = "/microposts/"
 
 # [[menu.main]]
 #     name = "Photos"
