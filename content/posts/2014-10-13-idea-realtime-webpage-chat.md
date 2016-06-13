@@ -2,7 +2,10 @@
 title: 'Idea: Realtime Chat for visitors on a webpage'
 author: Srinivasan Rangarajan
 date: 2014-10-13
-url: /idea-realtime-chat-for-visitors-on-a-webpage/
+url: /idea-realtime-webpage-chat/
+aliases:
+  - /idea-realtime-webpage-chat/
+  - /idea-realtime-chat-for-visitors-on-a-webpage/
 categories:
   - Ideas
 tags:
