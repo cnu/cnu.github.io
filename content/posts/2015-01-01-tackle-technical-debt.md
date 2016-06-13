@@ -1,7 +1,6 @@
 ---
 title: Tackle Technical Debt with Time Bombs
 author: Srinivasan Rangarajan
-layout: post
 date: 2015-01-01
 url: /tackle-technical-debt/
 categories:

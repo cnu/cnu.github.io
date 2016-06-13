@@ -1,7 +1,6 @@
 ---
 title: Ideas vs Time
 author: Srinivasan Rangarajan
-layout: post
 date: 2014-12-16
 url: /ideas-vs-time/
 categories:

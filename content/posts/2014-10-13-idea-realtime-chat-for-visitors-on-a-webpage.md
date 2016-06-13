@@ -1,7 +1,6 @@
 ---
 title: 'Idea: Realtime Chat for visitors on a webpage'
 author: Srinivasan Rangarajan
-layout: post
 date: 2014-10-13
 url: /idea-realtime-chat-for-visitors-on-a-webpage/
 categories:

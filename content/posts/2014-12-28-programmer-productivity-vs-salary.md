@@ -1,7 +1,6 @@
 ---
 title: Programmer productivity vs Salary
 author: Srinivasan Rangarajan
-layout: post
 date: 2014-12-28
 url: /programmer-productivity-vs-salary/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: How NOT to send a bank account statement to the customer
 author: Srinivasan Rangarajan
-layout: post
 date: 2016-06-01
 url: /how-not-to-send-a-bank-account-statement-to-the-customer/
 categories:
