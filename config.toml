@@ -6,6 +6,7 @@ SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = "UA-6819872-4"
 pygmentstyle = "monokai"
+MetaDataFormat = "yaml"
 
 [author]
     Handle = "cnu"
