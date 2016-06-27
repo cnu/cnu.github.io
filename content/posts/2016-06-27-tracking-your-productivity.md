@@ -1,33 +1,35 @@
 ---
 author: Srinivasan Rangarajan
-categories: 
+categories:
   - Productivity
 tags:
   - productivity
-date: 2016-06-27T23:17:59+05:30
+date: {}
 draft: true
 title: Tracking your Productivity
 url: /tracking-productivity
-
+published: true
 ---
 
 Some smart guy once said "*What isn't measured doesn't get improved.*" As I grow older, I seem to understand this a lot. 
 
 If you want to fix a piece of code which is slow as hell, first start with measuring how slow it is really running. It is easy to hypothesize that it is slow because it is written in an interpretted language or it leaks memory and the garbage collector doesn't work properly or various other reasons. 
 
-All you need to understand why it is behaving like that is to just run it with a profiler and see where it is taking up most of the time in execution. After looking through the profiler output, you can take a data driven decision on which function to optimize. Whether the optimization is really worth the time and effort you put in.
+All you need to understand why it is behaving like that, is to just run it with a profiler and see where it is taking up most of the time in execution. After looking through the profiler output, you can take a data driven decision on which function to optimize. Whether the optimization is really worth the time and effort you put in.
+
+![XKCD 1205: Is it worth the time](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
 But why am I talking about programming and code profilers in a post titled "Tracking your Productivity"? Because I find a computer program and my daily life to be very similar in some sense.
 
 I have tried a lot of productivity tools and devices - pomodoro, todo list, etc. But these doesn't work as effectively as I want them to be. 
 
-One reason I could think of why it doesn't work is, it requires a conscious effort on my part to do it. If it is a pomodoro, I have to start/stop the timer, there would definitely be small disturbances. Todo Lists requires me to plan out my tasks for the day, but all it takes is some unscheduled last minute meeting or a production issue at hand to ruin it for me. 
+One reason I could think of why it doesn't work is, it requires a conscious effort on my part to do it. If it is a pomodoro, I have to start/stop the timer and there would definitely be small disturbances. Todo Lists requires me to plan out my tasks for the day, but all it takes is some unscheduled last minute meeting or a production issue to ruin it for me. 
 
 These tools work a bit as long as I have the mental will power to sit down and use it. But we are all [cognitive misers](https://en.wikipedia.org/wiki/Cognitive_miser). Concentrating on the small details in tracking the todo list makes me mentally tired and I soon lose interest in it. 
 
 But isn't what I am trying to do the exact opposite of what I should be doing? I have been trying to be more productive by improving my various processes and trying out various stuff. But unless I know when and where I am not productive, it makes no sense in all these productivity tools. 
 
-**First measure - then improve.**
+> First measure - then improve.
 
 There is one popular app/web service called [IDoneThis](https://home.idonethis.com/) which helps you keep a journal of sorts of all the tasks you did daily. It sends an email daily and all you have to do is reply to that email with a list of everything that you did. 
 
