@@ -47,4 +47,3 @@ Feel free to edit it as you see fit.
 > Copy paste this to someone else's post if you if you think you found someone who is even more dense than you.
 
 > Check http://cnu.name/facebook-privacy-permissions-hoax/ to understand your stupidity.
-
