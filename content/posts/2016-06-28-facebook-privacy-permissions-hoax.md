@@ -27,7 +27,7 @@ If you had a facebook account, you would have seen at least 1 friend who had pos
 </center>
 
 
-This is not something that started yesterday. I have seen variants of this few years back and every time someone starts a chain and it gets spread like wildfire.
+This is not something that started yesterday. I have seen variants of this few years back and every time someone starts a chain and it spreads like wildfire.
 
 A quick search for [facebook privacy hoax](https://www.google.com/search?q=facebook+privacy+hoax) would show you how much of an idiot you were. 
 
