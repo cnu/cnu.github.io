@@ -17,7 +17,7 @@ MetaDataFormat = "yaml"
     FlickrID = "31114004@N00"
 
 [params]
-    Description = "Internet weblog of Software (Mac, iOS, Web) Developer, Josh Johnson."
+    Description = "$ cat /dev/random > cnu.name/new/"
     ShowCopyright = true
     RSSEnabled = true
     RSSSections = [ "Posts", "Microposts", "Photos" ]
