@@ -40,8 +40,8 @@ MetaDataFormat = "yaml"
 #     identifier = "photos"
 #     url = "/photos/"
 
-[[menu.main]]
-    name = "Projects"
-    weight = 4
-    identifier = "projects"
-    url = "/projects/"
+# [[menu.main]]
+#     name = "Projects"
+#     weight = 4
+#     identifier = "projects"
+#     url = "/projects/"
