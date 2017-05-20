@@ -21,7 +21,7 @@ disqusShortname = "cnu"
     dateFormat = "January 2, 2006"
     commit = false
     rss = true
-    comments = true    
+    comments = false    
 
 [Author]
     name = "Srinivasan Rangarajan"
