@@ -1,10 +1,11 @@
 baseurl = "http://cnu.name/"
-languageCode = "en-us"
-title = "Site"
-theme = "internet-weblog"
-SectionPagesMenu = "main"
-Paginate = 10
+DefaultContentLanguage = "en"
+title = "cnu"
+theme = "beautifulhugo"
+Paginate = 5
 googleAnalytics = "UA-6819872-4"
+pygmentsuseclasses = true
+PygmentsCodeFences = true
 pygmentstyle = "monokai"
 MetaDataFormat = "yaml"
 disqusShortname = "cnu"
@@ -13,36 +14,36 @@ disqusShortname = "cnu"
     Handle = "cnu"
     FirstName = "Srinivasan"
     LastName = "Rangarajan"
-    AboutPage = "/about"
-    Location = "Chennai, IN"
-    FlickrID = "31114004@N00"
+
 
 [params]
-    Description = "$ cat /dev/random > cnu.name/new/"
-    ShowCopyright = true
-    RSSEnabled = true
-    RSSSections = [ "Posts", "Microposts", "Photos" ]
+    subtitle = "$ cat /dev/random > cnu.name/new/"
+    dateFormat = "January 2, 2006"
+    commit = false
+    rss = true
+    comments = true    
 
-[[menu.main]]
-    name = "Posts"
-    weight = 1
-    identifier = "posts"
-    url = "/posts/"
+[Author]
+    name = "Srinivasan Rangarajan"
+    email = "srinivasanr@gmail.com"
+    facebook = "cnus8n"
+    github = "cnu"
+    twitter = "cnu"
+    reddit = "cnu"
+    linkedin = "cnus8n"
+    stackoverflow = "users/1448/cnu"
 
-# [[menu.main]]
-#     name = "Microposts"
-#     weight = 2
-#     identifier = "microposts"
-#     url = "/microposts/"
+#[[menu.main]]
+#    name = "Blog"
+#    url = ""
+#    weight = 1
 
-# [[menu.main]]
-#     name = "Photos"
-#     weight = 3
-#     identifier = "photos"
-#     url = "/photos/"
+#[[menu.main]]
+#    name = "About"
+#    url = "about"
+#    weight = 3
 
-# [[menu.main]]
-#     name = "Projects"
-#     weight = 4
-#     identifier = "projects"
-#     url = "/projects/"
+#[[menu.main]]
+#    name = "Projects"
+#    url = "projects"
+#    weight = 2
