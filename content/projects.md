@@ -1,7 +1,6 @@
 ---
 title: Projects
 author: Srinivasan Rangarajan
-layout: page
 date: 2015-10-25
 
 ---
