@@ -12,7 +12,9 @@ tags:
 ---
 **Disclaimer:** Persons/organisations mentioned in this story are based on real-life. Any resemblance to persons/organizations living/dead is intentional.
 
-Imagine you run a startup called _Super Duper Software Inc_ and you have a decent dev team. You now need to hire programmers and you see two fresh off the college programmers applying.
+Imagine you run a startup called *Super Duper Software Inc* and you have a decent dev team. You now need to hire programmers and you see two fresh off the college programmers applying.
+
+<!--more-->
 
 First programmer (fake named **Aarthi**) who knows nothing more than a &#8220;hello world&#8221; program that she wrote in C in the second year of her college. She cant even write or understand basic for loops or if statements. Any algorithm or data structure she learnt is forgotten the instant she steps out of the exam hall. Unfortunately because of an inefficient interview process you hire her.
 

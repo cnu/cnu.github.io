@@ -15,6 +15,8 @@ Some smart guy once said "*What isn't measured doesn't get improved.*" As I grow
 
 If you want to fix a piece of code which is slow as hell, first start with measuring how slow it is really running. It is easy to hypothesize that it is slow because it is written in an interpretted language or it leaks memory and the garbage collector doesn't work properly or various other reasons. 
 
+<!--more-->
+
 All you need to understand why it is behaving like that, is to just run it with a profiler and see where it is taking up most of the time in execution. After looking through the profiler output, you can take a data driven decision on which function to optimize. Whether the optimization is really worth the time and effort you put in.
 
 <center>

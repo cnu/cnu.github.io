@@ -16,6 +16,8 @@ Here&#8217;s a <del>crazy</del> simple idea that someone can build over a weeken
 
 > A Web Service with a browser extension where anyone visiting a webpage (page, not the site) would be able to chat with other visitors of the same page in realtime.
 
+<!--more-->
+
 #### Where/Why it would be useful?
 
 There are so many E-Commerce websites and every site is giving away so many discounts especially for the festival period. But not all discounts are great.

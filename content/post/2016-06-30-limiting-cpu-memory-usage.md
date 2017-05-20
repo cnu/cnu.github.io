@@ -13,9 +13,9 @@ url: /limiting-cpu-memory-usage
 
 Yesterday I wrote about how to use a very simple timing context manager to measure how much time your python code/functions take. There might be times when you want to restrict how long your code executes. Python's [`resource`](https://docs.python.org/2/library/resource.html) module in the standard library gives you an easy way to do that and more. 
 
-Here is a simple program which shows you how it is done:
-
 <!--more-->
+
+Here is a simple program which shows you how it is done:
 
     import signal
     import resource

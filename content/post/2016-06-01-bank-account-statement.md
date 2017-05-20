@@ -14,6 +14,8 @@ I have a few bank accounts and there is this particular local bank called [City 
 
 I received an email from that bank which has a list of different new features that they have added for the benefit of the customers, using latest technology that they could get their hands on &#8211; like self service branches, mobile banking using android apps, missed call balance enquiry, and many more.
 
+<!--more-->
+
 > <span style="color: #0000ff;">To enable our customers to have banking facilities from anywhere and anytime, our bank has implemented various e-initiatives. One such facility is E-Statement of account in HTML format. The HTML form of the E-Statement of your account for the month of April 2016 is enclosed for your use.</span>
 
 And, yes their email was in blue, green and brown colors. And they had attached a plain HTML file with the email.

@@ -11,6 +11,8 @@ tags:
 ---
 Technical Debt is a term that most developers have heard of. Even if you haven&#8217;t heard of the term, I am pretty sure you would have done something in your programming career that is a technical debt.
 
+<!--more-->
+
 > [Technical Debt][1] is a metaphor referring to the eventual consequences of poor system design, software architecture or software development within a codebase.
 
 In most cases, it is that quick and dirty hack your manager asked to put in just so that he could deliver it to the client.
