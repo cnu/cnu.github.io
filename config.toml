@@ -1,4 +1,4 @@
-baseurl = "http://cnu.name/"
+baseurl = "cnu.name"
 DefaultContentLanguage = "en"
 title = "cnu"
 theme = "beautifulhugo"
