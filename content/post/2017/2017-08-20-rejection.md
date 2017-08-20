@@ -54,4 +54,4 @@ You will learn how to condense a 30 minutes talk to 5 minutes - which IMHO is ev
 So my plan for the rest of this year is to get at least one rejection from a conference. 
 And next year to get more rejections than acceptances. 
 
-Which conference are you planning to get rejected at next?
+Which conferences are you planning to propose next?
