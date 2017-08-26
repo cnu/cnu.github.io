@@ -43,5 +43,5 @@ If you are not willing to spend those few hundreds of dollars to track the issue
 
 So the next time you want to claim you don't have budget to use an issue tracker or buy a seat for everyone in the company, just imagine throwing away a few million dollars every year. 
 
-Stop being a cheap company and start tracking issues professionally.
+Stop being a cheap company and start handling issues professionally.
 
