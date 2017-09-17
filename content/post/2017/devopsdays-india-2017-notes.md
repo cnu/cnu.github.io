@@ -2,13 +2,14 @@
 title: "Devopsdays India 2017 Notes"
 date: 2017-09-17T11:55:23+05:30
 author: Srinivasan Rangarajan
-draft : true
 url: /devopsdays-india-2017-notes
 categories: 
   - conference
 tags:
   - devops
-
+  - conference
+  - chef
+  - aws
 ---
 
 [DevOpsDays](http://devopsdaysindia.org/) is a technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. 
