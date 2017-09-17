@@ -1,5 +1,5 @@
 ---
-title: "Devopsdays India 2017 Notes"
+title: "DevOpsDays India 2017 Notes"
 date: 2017-09-17T11:55:23+05:30
 author: Srinivasan Rangarajan
 url: /devopsdays-india-2017-notes
