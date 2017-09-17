@@ -25,6 +25,7 @@ This is my first time attending DevOpsDays India conference and I took lot of no
 ![DevOpsDays India 2017](/img/devopsdays-banner.jpg)
 </center>
 
+# Day 1
 
 # Keynote by Nathen Harvey
 
