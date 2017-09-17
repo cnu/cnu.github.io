@@ -42,8 +42,8 @@ This is my first time attending DevOpsDays India conference and I took lot of no
     * Writing NO test cases is bad.
     * Test cases will evolve as you evolve. So doesn't matter if they are not comprehensive.
 * Always do **Static Analysis**
-    * cookstyle - tests the style guide for ruby scripts.
-    * foodcritic - tests the style guide for chef scripts.
+    * [cookstyle](https://docs.chef.io/cookstyle.html) - tests the style guide for ruby scripts.
+    * [foodcritic](http://www.foodcritic.io/) - tests the style guide for chef scripts.
 * Integration Testing
     * Start a Virtual Machine.
     * Get your code onto it.
@@ -100,6 +100,8 @@ Paint points of growing automation tools:
 * Rolling upgrades
 * Vendor lock-in
 
+Using [BOSH](https://bosh.io/), release engineering, deployment, lifecycle management, etc., becomes easier.
+
 
 # Moving 65000 Microsofties to Devops on the Public Cloud
 
@@ -114,7 +116,7 @@ By Sam Guckenheimer ([@SamGuckenheimer](https://twitter.com/SamGuckenheimer)) (V
 * Runs 60237 tests in 6:39 minutes.
 * There is a limit of 8 min for running test cases. Previously was 10 min.
 * 12 hours limit to do code review. Else the PR expires. Dev has to resubmit a new PR/Code review.
-* Git Virtual File System 
+* [Git Virtual File System](https://github.com/Microsoft/GVFS)
     * Linux Kernel 0.6GB
     * VSTS 3GB
     * Windows 270GB
@@ -139,6 +141,7 @@ By Sam Guckenheimer ([@SamGuckenheimer](https://twitter.com/SamGuckenheimer)) (V
 </center>
 
 My takeaway: Even a huge organization like Microsoft can be made to follow best practices. There is hope for the small startups that do stuff adhoc.
+
 
 # Devops at scale is a Hard problem
 
@@ -199,8 +202,8 @@ Also, the main incentive to automate your stuff is that you can go ahead and wor
 * have proper load balancing.
 * Don’t try micro optimizations with distributed systems.
 * Check out Distributed Tracing:
-    * Zipkin
-    * AWS Xray
+    * [Zipkin](http://zipkin.io/)
+    * [AWS Xray](https://aws.amazon.com/xray/)
 
 My takeaway: Tools for Distributed Tracing looks interesting. I do want to begin using these so that it will be easier to debug the different microservices.
 
@@ -221,8 +224,8 @@ By Abhinav Shroff - ([@abhinavshroff](https://twitter.com/abhinavshroff))
     * R
 * Devtools
     * Eclipse
-    * jupyter
-    * rstudio
+    * Jupyter
+    * RStudio
 * Why Containerize?
     * Tuning
     * Bundled
@@ -251,10 +254,10 @@ By Abhinav Shroff - ([@abhinavshroff](https://twitter.com/abhinavshroff))
 
 By Hannah Madely ([@DJPajamaPantz](https://twitter.com/DJPajamaPantz)) & [Victoria Jeffrey](http://www.victoriadjeffrey.com/) ([@vickkoala](https://twitter.com/vickkoala)) from Chef Software.
 
-As I am not a Chef kind of guy ([Ansible](https://www.ansible.com/) FTW), I didn't pay too much attention on this talk. But they had the best slides in the entire conference. Go Mario Go.
+As I am not a Chef/related software kind of guy ([Ansible](https://www.ansible.com/) FTW), I didn't pay too much attention on this talk. But they had the best slides in the entire conference. Go Mario Go.
 
 
-* Inspec Test runner over
+* [Inspec](https://www.inspec.io/) Test runner over
     * SSH
     * WinRM
     * Docker
@@ -296,7 +299,7 @@ Reliability translates to Business Profits. But pitching this to business people
     * 350+ tech people
 * Issues
 * CI/CD
-    * Jenkins 
+    * [Jenkins](https://jenkins.io/) 
     * Pipeline access management.
     * custom deployment - have to goto the devops/SRE team.
     * DSL repository management. code and CI lives in two diff repos.
@@ -336,8 +339,8 @@ Reliability translates to Business Profits. But pitching this to business people
         * CI configures the alert from the yaml file
 * Reliability and dependency
     * 1 service: R:99%
-    * 1<-3 services: R: 97%
-    * 1<-3<-3 services: R:88%
+    * 1 ⬅ 3 services: R: 97%
+    * 1 ⬅ 3 ⬅ 3 services: R:88%
     * **Fail Fast**.
     * Use circuit breakers.
     * 99.99% uptime for 30 microservices gives only 99.7% uptime for the entire system.
@@ -364,7 +367,7 @@ By [Sanchit Bahal](https://sanchitbahal.wordpress.com/) (@[sanchit_bahal](https:
 
 Thoughtworks was asked to build a mobile app for an Airline Baggage system.
 
-They usually use Git + GoCD for CI/CD. But the client didn’t want a public cloud. So build machines were in house - mix of Macs and linux VMs.
+They usually use Git + [GoCD](https://www.gocd.org/) for CI/CD. But the client didn’t want a public cloud. So build machines were in house - mix of Macs and linux VMs.
 
 They began experiencing long wait times for the builds, sometimes ~1.5 days. 
 
@@ -374,7 +377,7 @@ This causes a delayed feedback for the developer and by the time the build resul
 ### Journey:
 
 * Automate the provisioning
-    * Using ansible.
+    * Using [Ansible](https://www.ansible.com/).
     * installation of xcode, android sdk.
     * use local file server for heavy downloads.
 * Pre-baked golden image
@@ -417,7 +420,7 @@ My takeaway: Developer productivity is very important and quicker feedback loop 
 
 # Prometheus 2.0 
 
-This was a lightning talk by [Goutham](https://geekon.tech/) ([@putadent](https://twitter.com/putadent)) a GSoC student who was working on Prometheus. He was talking about the lower memory usage and other improvements in v2.0. 
+This was a lightning talk by [Goutham](https://geekon.tech/) ([@putadent](https://twitter.com/putadent)) a GSoC student who was working on [Prometheus](https://prometheus.io/). He was talking about the lower memory usage and other improvements in v2.0. 
 
 It is still in beta, but since Prometheus pulls metrics, Have both 1.x and 2.0 on your servers. Switch versions when it becomes stable.
 
