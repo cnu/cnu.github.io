@@ -93,7 +93,7 @@ Principle at Rakuten:
 4. Maximise Customer Satisfaction.
 5. Speed! Speed! Speed!
 
-Paint points of growing automation tools: 
+Pain points of growing automation tools: 
 
 * High availability
 * Scaling
