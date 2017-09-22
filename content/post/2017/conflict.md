@@ -3,11 +3,16 @@ title: "2 Questions to ask when your team brings up conflicts"
 date: 2017-09-22T07:28:13+05:30
 author: Srinivasan Rangarajan
 url: /conflict/
-categories: ""
-
+categories: "Psychology"
+tags: 
+  - work
+  - relationship
+  - psychology
 ---
 
 When you run a company or manage a team big enough to not fit in a room, one problem you are going to face is interpersonal conflicts. Your sub-ordinates are going to complain about each other how that guy isn't working well, he isn't communicating properly, he always misses deadlines, etc.
+
+<!--more-->
 
 Some of the points raised might be genuine issues with real proof of how that team member screwed up. But many times, the conflict is probably a misunderstanding. The problem with having one-on-one meetings is it is focussed too much about the issues/problems with others. There is too much negativity.
 
