@@ -65,3 +65,5 @@ If you go out of the way and help him out, maybe that one day when you forget to
 Sometimes you need to give more than what you receive in the short term. You would feel like a loser, but karma would catch up and you might even end up getting back more than what you expected. 
 
 So who are you going to help out today?
+
+**PS:** Don't start your one-on-one meetings with "What issues you have?" Instead start it with "What was great?"
