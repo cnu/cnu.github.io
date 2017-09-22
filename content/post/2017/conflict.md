@@ -1,5 +1,5 @@
 ---
-title: "2 Questions to ask when your team brings up conflicts"
+title: "Two Questions to ask when your team brings up conflicts"
 date: 2017-09-22T07:28:13+05:30
 author: Srinivasan Rangarajan
 url: /conflict/
