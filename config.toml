@@ -1,47 +1,90 @@
 baseurl = "https://cnu.name/"
 DefaultContentLanguage = "en"
-title = "cnu"
-theme = "beautifulhugo"
-Paginate = 5
+title = "Srinivasan Rangarajan"
+theme = "nuo"
+# Paginate = 5
 googleAnalytics = "UA-6819872-4"
 pygmentsuseclasses = true
 PygmentsCodeFences = true
 pygmentstyle = "monokai"
 MetaDataFormat = "yaml"
 disqusShortname = "cnu"
-
-[author]
-    Handle = "cnu"
-    FirstName = "Srinivasan"
-    LastName = "Rangarajan"
+enableRobotsTXT = true
+canonifyurls = true
 
 
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+
+# [author]
+#     Handle = "cnu"
+#     FirstName = "Srinivasan"
+#     LastName = "Rangarajan"
+
+
+# [params]
+#     subtitle = "$ cat /dev/random > cnu.name/new/"
+#     dateFormat = "January 2, 2006"
+#     commit = false
+#     rss = true
+#     comments = true
+#     avatar = "/img/cnu.png"
+
+# Add your own params here
 [params]
-    subtitle = "$ cat /dev/random > cnu.name/new/"
-    dateFormat = "January 2, 2006"
-    commit = false
-    rss = true
-    comments = true
+  author = "cnu"
+  avatar = "/img/cnu.png"
+  seotitle = "Srinivasan Rangarajan's Personal Blog"
+  subtitle = "Srini (cnu) loves building tech products, especially for early stage startups. His interests are in product design, usability, project management, psychology and more."
+  description = "Srini loves building tech products, especially for early stage startups. He prefers writing code in Python and Go. His interests are in product design, usability, project management, psychology and more."
+  paginate = 10
 
-[Author]
-    name = "Srinivasan Rangarajan"
-    email = "srinivasanr@gmail.com"
-    facebook = "cnus8n"
-    github = "cnu"
-    twitter = "cnu"
-    reddit = "cnu"
-    linkedin = "cnus8n"
-    stackoverflow = "users/1448/cnu"
+  # Choose your social networks
+  email = "srinivasanr@gmail.com"
+  github = "cnu"
+  twitter = "cnu"
+  linkedin = "cnus8n"
+  facebook = "cnus8n"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+# [[menu.main]]
+#   name = "Projects"
+#   weight = 20
+#   identifier = "projects"
+#   url = "/projects"
+
+# [[menu.main]]
+#     name = "About"
+#     url = "/about"
+#     weight = 30
+
+# [author]
+#     name = "cnu"
+#     email = "srinivasanr@gmail.com"
+#     facebook = "cnus8n"
+#     github = "cnu"
+#     twitter = "cnu"
+#     reddit = "cnu"
+#     linkedin = "cnus8n"
+#     stackoverflow = "users/1448/cnu"
 
 #[[menu.main]]
 #    name = "Blog"
 #    url = ""
 #    weight = 1
-
-#[[menu.main]]
-#    name = "About"
-#    url = "about"
-#    weight = 3
 
 #[[menu.main]]
 #    name = "Projects"
