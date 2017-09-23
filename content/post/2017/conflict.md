@@ -55,6 +55,10 @@ If he can't come up with even a single positive incident, the next question will
 
 This question is even more important than the first as this shows how often the complaining person has gone out of the way to help him, even if he dislikes him. You can't keep complaining about a person and keep claiming that he has done nothing for you. The other guy can claim similar issues with you and it would just be a blamefest. 
 
+The reason these two questions are important is it helps bring out a balanced outlook about a person. Everyone would have negative attributes, but it is also important to look at the positive attributes and judge them on both.
+
+## How to fix you relationship with your colleague
+
 Relationships cannot be transactional. You can't expect others to also give you back the same kind of help/communication as you do. But he might be able to help you out in a different form. 
 
 If you are a project manager, and keep complaining about a developer that he isn't communicating enough with you, go out of the way to make things easier for him to communicate. Maybe talking directly face-to-face is hard for him, but he is comfortable tracking things using an issue tracker. Go signup for the issue tracker and start using it. He would be more than happy to share every status updates about the project. Developers love structure.
@@ -64,6 +68,6 @@ If you go out of the way and help him out, maybe that one day when you forget to
 
 Sometimes you need to give more than what you receive in the short term. You would feel like a loser, but karma would catch up and you might even end up getting back more than what you expected. 
 
-So who are you going to help out today?
+**So who are you going to help out today?**
 
 **PS:** Don't start your one-on-one meetings with "What issues you have?" Instead start it with "What was great?"
