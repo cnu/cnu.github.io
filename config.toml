@@ -1,4 +1,4 @@
-baseurl = "https://cnu.name/"
+baseurl = "/"
 DefaultContentLanguage = "en"
 title = "Srinivasan Rangarajan"
 theme = "nuo"
