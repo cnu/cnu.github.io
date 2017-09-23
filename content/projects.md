@@ -1,9 +1,13 @@
 ---
-title: Projects
-author: Srinivasan Rangarajan
+title: "Projects"
 date: 2015-10-25
-
+layout: "about"
+menu: "main"
+weight: 20
+comments: false
+author: Srinivasan Rangarajan
 ---
+
 These are a list of projects that I have worked on.
 
 ## **Sentiment Analysis**

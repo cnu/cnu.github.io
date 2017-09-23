@@ -1,9 +1,13 @@
 ---
-title: About
-author: Srinivasan Rangarajan
+title: "About"
 date: 2015-10-25
-
+layout: "about"
+menu: "main"
+weight: 30
+comments: false
+author: Srinivasan Rangarajan
 ---
+
 I am **cnu** (aka) **Srini** / **Srinivasan Rangarajan** in the real world. I am a Software Developer/Entrepreneur from India. I consult for various startups and help them to build their products from the ground-up.
 
 I primarily work on [python][1], though I do have experience in working on the full range of the web stack &#8211; right from efficiently managing linux servers, Databases, various web frameworks to building/managing clusters of machines to solve big data problems.
