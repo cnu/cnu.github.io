@@ -8,18 +8,19 @@ comments: false
 author: Srinivasan Rangarajan
 ---
 
-I am **cnu** (aka) **Srini** / **Srinivasan Rangarajan** in the real world. I am a Software Developer/Entrepreneur from India. I consult for various startups and help them to build their products from the ground-up.
+I am **cnu** (aka) **Srini** / **Srinivasan Rangarajan** in the real world. 
 
-I primarily work on [python][1], though I do have experience in working on the full range of the web stack &#8211; right from efficiently managing linux servers, Databases, various web frameworks to building/managing clusters of machines to solve big data problems.
+I love building online tech products, involving complex architecture which is able to scale to millions of users. My other skills include Product Usability and User Experience. 
+I am also interested in a bit of marketing, copy writing and entrepreneurship.
 
-**Contact**
+Currently I am the **Head of the Engineering** team at [Mad Street Den](https://www.madstreetden.com), an AI startup which builds automation tools and products for the retail segment.
 
-* You can contact me by emailing \`me\` @ the domain of this site.
-  
+
+### Contact
+
+* You can contact me by emailing `srinivasanr`@gmail.com
 * Follow me on twitter [@cnu][2].
-  
 * Subscribe to me on Facebook at [cnus8n][3].
-  
 * Linkedin profile at [cnus8n][4].
 
  [1]: http://python.org/
