@@ -78,7 +78,7 @@ Jakob Nielsen has a [fantastic article](https://www.nngroup.com/articles/why-you
 
 If you don't even have 5 employees to test, then you can go for your neighbours or relatives. But freeze your design and get 5 people to test your UI. Then fix those issues. Rinse, repeat.
 
-### But, my employees wont understand my new-age product's design
+### But, my employees won't understand my new-age product's design
 
 Hmm, That is a real problem. Not with your employees, but with you. If your employees, who you hired because they were smart people can't understand your design and accomplish the intended task, just imagine the plight of average users who know nothing about your product. 
 
