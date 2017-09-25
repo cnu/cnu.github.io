@@ -16,6 +16,7 @@ When you design a product, be a website, SaaS Application or a mobile app, usabi
 
 But first, what is Usability Testing?
 
+<!--more-->
 
 ## Usability Testing
 
