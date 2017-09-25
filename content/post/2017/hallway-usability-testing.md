@@ -2,7 +2,6 @@
 title: "Hallway Usability Testing and why it is important"
 date: 2017-09-24T23:49:58+05:30
 author: Srinivasan Rangarajan
-draft : true
 url: /hallway-usability-testing
 categories: "Usability"
 tags:
