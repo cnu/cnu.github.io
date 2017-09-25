@@ -103,7 +103,7 @@ Also remember that these are users and not design experts who have years of rese
 
 ## Conclusion
 
-Hallway Usability Testing is an important tool that all product designers should use multiple times in a day. By doing it with your employees you fix your design iterations faster and cheaper. And I wish more companies start doing Hallway Usability Testing right from the beginning of the product design. 
+Hallway Usability Testing is an important tool that all product designers should use multiple times in a day. By doing it with your employees you fix your design iterations faster and cheaper. The faster feedback loop alone is worth the effort and time you put into it. And I wish more companies start doing Hallway Usability Testing right from the beginning of the product design. 
 
 Are there any other reasons why you think Hallway Usability Testing won't work for you? Do leave a comment below.
 
