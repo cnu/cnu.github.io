@@ -7,7 +7,7 @@ categories: "Challenge"
 
 ---
 
-One of my favourite podcast in recent times in [Noah Kagen Presents](https://okdork.com/podcast/) and I have been devouring each episode back-to-back. One interesting thing that Noah does is a weekly challenge. He or his guests come up with a challenge for the listeners to complete. Some of the challenges are deleting ONE app from your mobile, waking up at 5am, asking for 10% off when you get your coffee, etc. Sounds simple, but very, very hard to do.
+One of my favourite podcast in recent times is [Noah Kagen Presents](https://okdork.com/podcast/) and I have been devouring each episode back-to-back. One interesting thing that Noah does is a weekly challenge. He or his guests come up with a challenge for the listeners to complete. Some of the challenges are deleting ONE app from your mobile, waking up at 5am, asking for 10% off when you get your coffee, etc. Sounds simple, but very, very hard to do.
 
 I decided to take up such a challenge, except to do it for a month. And the challenge I took up for september is to have only a cold shower everyday. I know it sounds easy, but I love a nice hot shower. I usually have the hottest setting than normal people. 
 
