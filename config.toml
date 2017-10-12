@@ -1,6 +1,6 @@
 baseurl = "https://cnu.name/"
 DefaultContentLanguage = "en"
-title = "cnu"
+title = "Srinivasan Rangarajan"
 theme = "beautifulhugo"
 Paginate = 5
 googleAnalytics = "UA-6819872-4"
@@ -17,7 +17,7 @@ disqusShortname = "cnu"
 
 
 [params]
-    subtitle = "$ cat /dev/random > cnu.name/new/"
+    subtitle = "Software Engineering, Product Design, Marketing, and more."
     dateFormat = "January 2, 2006"
     commit = false
     rss = true
